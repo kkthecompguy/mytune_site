@@ -1,0 +1,14 @@
+{
+  "name": "mytune",
+  "version": "1.0.0",
+  "description": "myTune site for Orange mui=\u001b[sic and videos  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "myTune"
+  ],
+  "author": "Kosam Omollo (\u001b[2~kkthecompguy)",
+  "license": "MIT"
+}
