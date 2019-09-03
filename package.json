@@ -4,12 +4,17 @@
   "description": "myTune site for Orange music and videos  ",
   "main": "index.js",
   "homepage": "https://kkthecompguy.github.io/mytune",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/kkthecompguy/mytune_site.git"
+    },
   "scripts": {
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "lodash": "^4.17.13"
   },
   "keywords": [
     "myTune"
